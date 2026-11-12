@@ -19,9 +19,7 @@
 
 ## About me
 
-I’m **Yash Bhadane**, a third-year **Artificial Intelligence & Data Science** student at **D. Y. Patil College of Engineering, Akurdi**. I build polished full-stack experiences with **React, JavaScript, Node.js and Firebase**, while exploring AI/ML and data science through hands-on projects.
-
-I enjoy turning ideas into useful products, strengthening my DSA fundamentals through regular **LeetCode** practice, and learning by shipping. I’m currently developing new products across web development and intelligent systems.
+I’m **Yash Bhadane**, an **Artificial Intelligence & Data Science** student at **D. Y. Patil College of Engineering, Akurdi**. I build polished full-stack experiences with **React, JavaScript, Node.js and Firebase**, while exploring AI/ML and data science through hands-on projects.
 
 ## Featured projects
 
@@ -30,17 +28,35 @@ I enjoy turning ideas into useful products, strengthening my DSA fundamentals th
 <td width="50%" valign="top">
 
 ### [Jewellery Store ↗](https://jewellery-frontend-zeta.vercel.app/)
-An elegant storefront focused on product discovery and a refined shopping experience.
+Elegant e-commerce storefront focused on product discovery and refined shopping flows.
 
-`LIVE` · E-commerce · Frontend
+`LIVE` · React · E-commerce
 
 </td>
 <td width="50%" valign="top">
 
 ### [IronPeak Gym ↗](https://ironpeak-gym.vercel.app/)
-A high-energy gym web experience designed for clear plans, strong visual hierarchy and conversion.
+High-energy gym experience with clear plans, strong visual hierarchy and conversion-focused UI.
 
-`LIVE` · Product UI · Frontend
+`LIVE` · Frontend · Product UI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [L'Arora Studio ↗](https://larora-studio.vercel.app/)
+Modern furniture and interior design website showcasing products with an elegant browsing experience.
+
+`LIVE` · React · Vercel
+
+</td>
+<td width="50%" valign="top">
+
+### [Luxe Estate ↗](https://luxe-estate-liart-two.vercel.app/)
+Premium real estate experience for property listings and modern property discovery.
+
+`LIVE` · React · Vercel
 
 </td>
 </tr>
@@ -50,70 +66,73 @@ A high-energy gym web experience designed for clear plans, strong visual hierarc
 ### Chronix Watch Store
 Watch e-commerce platform with product discovery, authentication, shopping functionality and modern UI.
 
-`IN DEVELOPMENT` · E-commerce
+`IN DEVELOPMENT` · E-commerce · Full-stack
 
 </td>
 <td width="50%" valign="top">
 
 ### Gym Management System
-Multi-role platform with member management, staff access, attendance tracking, online joining and other gym operations.
+Multi-role platform for members, staff, attendance, online joining and gym operations.
 
-`IN DEVELOPMENT` · Full-stack
+`IN DEVELOPMENT` · Full-stack · Management
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+### Cubex
+Interactive Rubik’s Cube platform currently being designed and developed.
+
+`IN DEVELOPMENT` · Planned: solver · patterns · algorithms · 3D visualization
+
+</td>
+<td width="50%" valign="top">
 
 ### E-commerce Customer Segmentation
-Academic ML project applying **K-Means++** to the Mall Customers dataset to identify meaningful customer groups.
+Academic ML project applying **K-Means++** to the Mall Customers dataset to identify customer groups.
 
-`ACADEMIC ML PROJECT` · Python · Scikit-learn
+`ACADEMIC PROJECT` · Python · Scikit-learn
 
 </td>
 </tr>
 </table>
 
-## Tech stack
+> **Cubex roadmap:** Rubik’s Cube solver, step-by-step instructions, pattern generator, custom pattern creation, algorithm exploration, interactive visualization and cube-solving utilities are planned functionality, not claims of completed features.
 
-<p><strong>Languages</strong></p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" alt="C++, Python, JavaScript, HTML and CSS">
+## Technology stack
 
-<p><strong>Frontend</strong></p>
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React and Vite">
-
-<p><strong>Backend</strong></p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js">
-
-<p><strong>Database</strong></p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite&theme=dark" alt="MongoDB, Firebase and SQLite">
-
-<p><strong>AI &amp; Data Science</strong></p>
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter&theme=dark" alt="NumPy, Pandas, Scikit-learn and Jupyter Notebook">
-
-<p><strong>Tools</strong></p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman and Vercel">
+<table>
+<tr><td valign="top" width="20%"><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" alt="C++, Python, JavaScript, HTML and CSS"></td></tr>
+<tr><td valign="top"><strong>Frontend</strong></td><td><img src="https://skillicons.dev/icons?i=react,vite&theme=dark" alt="React and Vite"></td></tr>
+<tr><td valign="top"><strong>Backend</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js"></td></tr>
+<tr><td valign="top"><strong>Databases</strong></td><td><img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite&theme=dark" alt="MongoDB, Firebase and SQLite"></td></tr>
+<tr><td valign="top"><strong>AI &amp; Data Science</strong></td><td><img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,jupyter&theme=dark" alt="NumPy, Pandas, Scikit-learn and Jupyter Notebook"></td></tr>
+<tr><td valign="top"><strong>Tools</strong></td><td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman and Vercel"></td></tr>
+</table>
 
 ## GitHub analytics
 
 <div align="center">
-<a href="https://github.com/Yashzz26"><img src="./cards/contributions.svg" alt="GitHub contribution summary" width="100%"></a>
+<a href="https://github.com/Yashzz26"><img src="./cards/contributions.svg" alt="GitHub contribution calendar for Yashzz26" width="100%"></a>
 <br><br>
-<a href="https://github.com/Yashzz26"><img src="https://github-readme-stats.vercel.app/api?username=Yashzz26&show_icons=true&hide_border=true&bg_color=11101f&title_color=c4a7ff&text_color=d9d2e9&icon_color=9d7cff&rank_icon=github" alt="GitHub statistics"></a>
-<a href="https://github.com/Yashzz26"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashzz26&layout=compact&hide_border=true&bg_color=11101f&title_color=c4a7ff&text_color=d9d2e9" alt="Top programming languages"></a>
-<br>
-<a href="https://github.com/Yashzz26"><img src="https://streak-stats.demolab.com?user=Yashzz26&theme=midnight-purple&hide_border=true&background=11101f&ring=9d7cff&fire=c4a7ff&currStreakLabel=c4a7ff" alt="GitHub streak"></a>
-<br>
-<a href="https://github.com/Yashzz26"><img src="https://github-profile-trophy.vercel.app/?username=Yashzz26&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"></a>
+<a href="https://github.com/Yashzz26"><img src="./cards/github-stats.svg" alt="GitHub account statistics for Yashzz26" width="49%"></a>
+<a href="https://github.com/Yashzz26"><img src="./cards/top-languages.svg" alt="Top programming languages in public repositories" width="49%"></a>
+<br><br>
+<a href="https://github.com/Yashzz26"><img src="./cards/streak.svg" alt="Current and longest GitHub contribution streak" width="100%"></a>
+<br><br>
+<a href="https://github.com/Yashzz26"><img src="./cards/activity.svg" alt="GitHub activity calendar for Yashzz26" width="100%"></a>
 </div>
+
+These self-hosted SVG cards are refreshed daily by GitHub Actions. Contribution totals, streaks and activity use the same trailing 12-month GitHub GraphQL contribution calendar; language percentages are calculated from public, non-fork repository language bytes.
 
 ## LeetCode dashboard
 
 <div align="center">
-<a href="https://leetcode.com/Yashzz26/"><img src="https://leetcard.jacoblin.cool/Yashzz26?theme=dark&font=Baloo&ext=activity" alt="Yashzz26 LeetCode dashboard" width="100%"></a>
+<a href="https://leetcode.com/Yashzz26/"><img src="https://leetcard.jacoblin.cool/Yashzz26?theme=dark&font=Baloo&ext=activity" alt="Yashzz26 LeetCode dashboard with total, easy, medium, hard and activity" width="100%"></a>
 </div>
 
-The card above is a live third-party integration and is not hardcoded: it reads the public profile for **Yashzz26** and can show total, easy, medium and hard solves, acceptance rate, submissions and activity heatmap when the service is available. If it is temporarily unavailable, use the [LeetCode profile](https://leetcode.com/Yashzz26/) directly.
+The card reads the public **Yashzz26** profile and can show total, easy, medium and hard solves plus the activity heatmap. If the external service is unavailable, use the [LeetCode profile](https://leetcode.com/Yashzz26/) directly.
 
 ## Connect with me
 
