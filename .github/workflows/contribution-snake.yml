@@ -1,0 +1,57 @@
+name: Update contribution snake
+
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/contribution-snake.yml
+      - scripts/generate-snake.mjs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-snake-output
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Generate the contribution snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: Yashzz26
+          SNAKE_CELL_MS: "150"
+          SNAKE_BODY_DOTS: "8"
+        run: node scripts/generate-snake.mjs
+
+      - name: Publish to the output branch
+        shell: bash
+        run: |
+          svg="$RUNNER_TEMP/contribution-snake.svg"
+          cp cards/contribution-snake.svg "$svg"
+          output_ref=$(git ls-remote origin refs/heads/output)
+          if [[ -n "$output_ref" ]]; then
+            git fetch --no-tags origin refs/heads/output
+            git switch --discard-changes -C output FETCH_HEAD
+          else
+            git switch --discard-changes --orphan output
+          fi
+          mkdir -p cards
+          cp "$svg" cards/contribution-snake.svg
+          git add cards/contribution-snake.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update contribution snake"
+          git push origin HEAD:refs/heads/output

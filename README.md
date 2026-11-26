@@ -33,10 +33,8 @@ Hello! I'm **Yash Bhadane**, a third-year undergraduate student pursuing **Artif
 
 
 <a href="https://github.com/Yashzz26?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20GitHub%20Repositories-9d7cff?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" /></a>
-
-
-
-<img src="https://www.gitskins.com/api/section/heatmap?username=Yashzz26&theme=github-dark&mode=dark" alt="GitHub contribution heatmap" width="95%" /></div>🚀 Featured Projects
+<br />
+<img src="https://raw.githubusercontent.com/Yashzz26/Yashzz26/output/cards/contribution-snake.svg" alt="Animated blue snake on the GitHub contribution calendar" width="95%" /></div>🚀 Featured Projects
 <table>
 <tr>
 <td width="50%" valign="top">💎 <a href="https://jewellery-frontend-zeta.vercel.app/">Jewellery Store ↗</a>
