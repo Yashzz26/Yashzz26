@@ -84,33 +84,64 @@ Academic machine-learning project using K-Means++ on the Mall Customers dataset 
 ACADEMIC ML PROJECT · Python · Scikit-learn
 </td>
 </tr>
-</table>🛠️ Languages & Tools
-Programming Languages
-<p><img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&theme=dark" alt="C++, Python, JavaScript, HTML and CSS" /></p>Frontend Development
-<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&theme=dark" alt="React, Vite, Tailwind CSS and Next.js" /></p>Backend Development
+</table>
+
+## 🛠️ Languages & Tools
+
+### Programming Languages
+
+<p><img src="https://skillicons.dev/icons?i=cpp,python,js,html,css&amp;theme=dark" alt="C++, Python, JavaScript, HTML and CSS" /></p>
+
+### Frontend Development
+
+<p><img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs&amp;theme=dark" alt="React, Vite, Tailwind CSS and Next.js" /></p>
+
+### Backend Development
+
 <p>
- <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express.js" />
- <img src="https://img.shields.io/badge/REST%20APIs-11101f?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
- <img src="https://img.shields.io/badge/JWT-11101f?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens" />
-</p>Databases & Services
-<p><img src="https://skillicons.dev/icons?i=mongodb,firebase,sqlite&theme=dark" alt="MongoDB, Firebase and SQLite" /></p>AI Development Tools
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,api,jwt&amp;theme=dark" alt="Node.js, Express.js, REST APIs and JWT" />
+</p>
+
+### Databases & Services
+
 <p>
- <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
- <img src="https://img.shields.io/badge/Cursor-181717?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
- <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
- <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
- <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
- <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>AI & Data Science
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase,sqlite,mysql,postgresql&amp;theme=dark" alt="MongoDB, Firebase, SQLite, MySQL and PostgreSQL" />
+</p>
+
+### AI Development Tools
+
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-</p>Developer Tools & Deployment
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,cursor,claudecode,gemini,antigravity,chatgpt&amp;theme=dark" alt="GitHub Copilot, Cursor, Claude Code, Google Gemini, Google Antigravity and ChatGPT" />
+</p>
+
+### AI & Data Science
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Git, GitHub, VS Code, Postman and Vercel" />
-</p>🧠 LeetCode Dashboard
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,jupyter,pytorch,tensorflow&amp;theme=dark" alt="NumPy, pandas, scikit-learn, Jupyter, PyTorch and TensorFlow" />
+</p>
+
+### Data Visualization
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib,seaborn,plotly&amp;theme=dark" alt="Matplotlib, Seaborn and Plotly" />
+</p>
+
+### DSA & Problem Solving
+
+<p>
+  <a href="https://leetcode.com/Yashzz26/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode&amp;theme=dark" alt="Yashzz26 on LeetCode" />
+  </a>
+</p>
+
+### Developer Tools & Deployment
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,postman,vercel,githubactions,docker,jest&amp;theme=dark" alt="Git, GitHub, VS Code, Postman, Vercel, GitHub Actions, Docker and Jest" />
+</p>
+
+🧠 LeetCode Dashboard
+
 <div align="center">
   <a href="https://leetcode.com/Yashzz26/">
     <img src="https://leetcard.jacoblin.cool/Yashzz26?theme=dark&font=Baloo&border=0" alt="Yashzz26 LeetCode solved problems by difficulty and ranking" width="60%" />
@@ -122,7 +153,3 @@ Programming Languages
 <a href="https://yash-portfolio-silk-phi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-9d7cff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:yashbhadane483@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20talk-9d7cff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div><br/>
-<div align="center">
-  <i>Build with intent. Learn in public. Ship what matters.</i>
-  <br/><sub>Personalized README inspired by the GitSkins creative dev preview · Original template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a></sub>
-</div>
